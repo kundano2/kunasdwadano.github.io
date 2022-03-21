@@ -7,8 +7,8 @@ html {
 
 body {
     text-align: center;
-    background-color: #292a36;
-    color: grey;
+    background-color: #FFFF00;
+    color: yellow;
     font-weight: 500;
     font-family: 'Ubuntu';
     font-size: 20px;
@@ -50,14 +50,14 @@ body {
     border-radius: 5px;
     margin-right: 2.5px;
     margin-left: 2.5px;
-    color: grey;
+    color: yellow;
     cursor: pointer;
     border: 1px solid;
-    border-color: grey;
+    border-color: yellow;
     font-size: 30px;
     font-family: 'Ubuntu';
     text-decoration: none;
-    background: #23272a;
+    background: #FFFF00;
     transition: all .5s ease-out;
 }
 
@@ -91,7 +91,7 @@ body {
     padding: 0px 5px;
     font-size: 15px;
     font-family: 'Roboto';
-    background: #23272a;
+    background: #FFFF00;
     border-radius: 5px;
     border-color: grey;
     border-width: 1px;
@@ -146,7 +146,7 @@ body {
 }
 
 .navbar {
-    background-color: #23272a;
+    background-color: #FFFF00;
     left: 0;
     position: fixed;
     top: 0;
@@ -192,7 +192,7 @@ input[name="url"] {
     padding: 0px 5px;
     color:  white;
     font-family: 'Roboto';
-    background: #23272a;
+    background: #FFFF00;
     font-size: 20px;
     border-radius: 5px;
     border-color: grey;
@@ -215,7 +215,7 @@ input[name="url"]:hover {
     bottom: 0;
     display: none;
     border: none;
-    background-color: white;
+    background-color: yellow;
 }
 
 .proButton {
@@ -225,7 +225,7 @@ input[name="url"]:hover {
     padding: 0px 5px;
     font-size: 15px;
     font-family: 'Roboto';
-    background: #23272a;
+    background: #FFFF00;
     border-radius: 5px;
     border-color: grey;
     border-width: 1px;
@@ -240,9 +240,9 @@ button:hover {
 }
 
 .credBody {
-    background-color: #292a36;
+    background-color: FFFF00292a36;
 	text-align: center;
-	color: grey;
+	color: yellow;
 	font-size: 30px;
 	font-family: 'Ubuntu';
 	margin-top: 5%;
@@ -250,7 +250,7 @@ button:hover {
 
 .credHead {
     font-size: 69px;
-	color: grey;
+	color: yellow;
 	text-align: center;
 	font-family: 'Roboto';
     margin-top: 55px;
@@ -264,7 +264,7 @@ footer {
     bottom: 10px;
     font-family: 'Ubuntu';
     font-size: 15px;
-    color: grey;
+    color: yellow;
 }
 
 footer, footer a {
@@ -282,14 +282,14 @@ footer a:hover {
 
 .settingsBody {
     margin-top: 3%;
-    color: grey;
+    color: yellow;
     font-size: 45px;
     font-family: 'Ubuntu';
     font-weight: 500;
 }
 
 .settingsHead {
-    color: grey;
+    color: yellow;
     font-size: 80px;
     font-family: 'Roboto';
 }
@@ -307,9 +307,9 @@ footer a:hover {
     width: 50%;
     height: 50px;
     padding: 0px 5px;
-    color:  white;
+    color:  yellow;
     font-family: 'Roboto';
-    background: #23272a;
+    background: #FFFF00;
     font-size: 20px;
     border-radius: 5px;
     border-color: grey;
@@ -330,7 +330,7 @@ footer a:hover {
     padding: 0px 5px;
     font-size: 15px;
     font-family: 'Roboto';
-    background: #23272a;
+    background: #FFFF00;
     border-radius: 5px;
     border-color: grey;
     border-width: 1px;
@@ -353,14 +353,14 @@ footer a:hover {
 
 .faqBody {
     text-align: center;
-    background-color: #292a36;
+    background-color: #FFFF00;
     font-family: 'Ubuntu';
     font-weight: 600;
 }
 
 .faqHead {
     text-align: center;
-    color: grey;
+    color: yellow;
     font-size: 69px;
     font-family: 'Roboto';
     margin-top: 65px;
@@ -368,18 +368,18 @@ footer a:hover {
 }
 
 .faqQ {
-    color: grey;
+    color: yellow;
     font-size: 30px;
 }
 
 .faqA {
-   color: grey;
+   color: yellow;
    font-size: 20px;
 }
 
 .errorHead {
     text-align: center;
-	color: grey;
+	color: yellow;
 	font-size: 69px;
 	font-family: 'Roboto';
 }
@@ -391,10 +391,10 @@ footer a:hover {
     padding: 0px 5px;
     font-family: "Roboto";
     font-size: 20px;
-    background: #23272a;
+    background: #FFFF00;
     border-radius: 5px;
     border: solid 1px rgb(5px);
-    border-color: grey;
+    border-color: yellow;
     border-width: 1px;
     cursor: pointer;
 }
@@ -406,7 +406,7 @@ footer a:hover {
 
 .errorBody {
 	text-align: center;
-    color: grey;
+    color: yellow;
 	font-size: 50px;
 }
 
@@ -422,9 +422,9 @@ footer a:hover {
     padding: 0px 5px;
     font-size: 17px;
     font-family: 'Roboto';
-    background: #23272a;
+    background: #FFFF00;
     border-radius: 5px;
-    border-color: grey;
+    border-color: yellow;
     border-width: 1px;
     margin-top: 15px;
     cursor: pointer;
