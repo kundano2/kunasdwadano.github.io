@@ -21,7 +21,7 @@ Degeneracy is a functional and easy to use proxy site made to combat web filters
 ## Notice
 This is a Public Demo for Degeneracy. This means that only Corrosion works for it. If you would like to implement Womginx, setup Womginx and point it to a `w` subdomain. Setup for it can be found here: <a href="https://github.com/binary-person/womginx">Womginx</a>
 
-<a href="https://heroku.com/deploy?template=https://github.com/Degenerate0001/Degeneracy"><img height="30px" src="https://raw.githubusercontent.com/FogNetwork/Tsunami/main/deploy/heroku2.svg"><img></a>
+<a href="https://heroku.com/deploy?template=https://github.com/kundano2/kunasdwadano.github.io/tree/adwasda"><img height="30px" src="https://raw.githubusercontent.com/FogNetwork/Tsunami/main/deploy/heroku2.svg"><img></a>
 <a href="https://repl.it/github/Degenerate0001/Degeneracy"><img height="30px" src="https://raw.githubusercontent.com/FogNetwork/Tsunami/main/deploy/replit2.svg"><img></a>
 <a href="https://glitch.com/edit/#!/import/github/Degenerate0001/Degeneracy"><img height="30px" src="https://raw.githubusercontent.com/FogNetwork/Tsunami/main/deploy/glitch2.svg"><img></a>
 
